@@ -19,8 +19,5 @@
   </a>
 </p>
 
-[website]: https://wtfisthis-portfolio.herokuapp.com/
-[youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
 [tryhackme]: https://tryhackme.com/p/WtfIsThis
 [hackthebox]: https://app.hackthebox.eu/profile/620974
-[hackforums]: https://hackforums.net/member.php?action=profile&uid=5063966
