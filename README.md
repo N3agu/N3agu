@@ -12,9 +12,9 @@
 <br/><br/><br/>
 ### Github Stats:
 <p align="center">
-  <a href="https://github.com/Azraeel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azraeel&theme=algolia"/>
+  <a href="https://github.com/AzraeeI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzraeeI&theme=algolia"/>
     <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azraeel&layout=compact&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzraeeI&layout=compact&theme=algolia"/>
   </a>
 </p>
