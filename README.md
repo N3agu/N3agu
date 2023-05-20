@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-<img align="center" alt="Banner" width="1200" src="https://github.com/Wtf-Is-This-x1337/Wtf-Is-This-x1337/blob/main/WhatTheFuckIsSecurity.png">
+<img align="center" alt="Banner" width="1200" src="https://github.com/Azraeel/Azraeel/blob/main/WhatTheFuckIsSecurity.png">
 
 ### How to reach me: 
 [<img align="left" alt="WtfIsThis | TryHackMe" width="170px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
@@ -13,9 +13,9 @@
 ### Github Stats:
 <p align="center">
   <a href="https://github.com/Wtf-Is-This-x1337">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azraeel&theme=algolia"/>
     <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azraeel&layout=compact&theme=algolia"/>
   </a>
 </p>
 
