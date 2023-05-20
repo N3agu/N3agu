@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi, there! I am WtfIsThis <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+    Hi, there! I am Azraeel <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
 
@@ -18,6 +18,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azraeel&layout=compact&theme=algolia"/>
   </a>
 </p>
-
-[tryhackme]: https://tryhackme.com/p/WtfIsThis
-[hackthebox]: https://app.hackthebox.eu/profile/620974
