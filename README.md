@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-<img align="center" alt="Banner" width="1200" src="https://github.com/Azraeel/Azraeel/blob/main/WhatTheFuckIsSecurity.png">
+<img align="center" alt="Banner" width="1200" src="https://github.com/AzraeeI/Azraeel/blob/main/WhatTheFuckIsSecurity.png">
 
 ### How to reach me: 
 [<img align="left" alt="WtfIsThis | TryHackMe" width="170px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
