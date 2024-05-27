@@ -24,16 +24,16 @@
   <p align=center>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=I-Am-Jakoby&theme=blue-green" alt="zumrudu-anka" />
+        <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=blue-green" alt="zumrudu-anka" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Jakoby&theme=blue-green" />
+        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=N3agu&theme=blue-green" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Jakoby&theme=blue-green" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3agu&theme=blue-green" />
       </a>
     </div>
     <br>
