@@ -24,16 +24,16 @@
   <p align=center>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=blue-green" alt="zumrudu-anka" />
+        <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=radical"/>
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=N3agu&theme=blue-green" />
+        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=N3agu&theme=radical" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3agu&theme=blue-green" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3agu&theme=radical" />
       </a>
     </div>
     <br>
@@ -41,5 +41,5 @@
 <hr>
 
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=N3agu&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=N3agu&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true">
 </div>
