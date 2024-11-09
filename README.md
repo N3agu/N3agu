@@ -9,17 +9,12 @@
 
 [![HackTheBox Badge](https://www.hackthebox.com/badge/image/620974)](https://app.hackthebox.com/profile/620974)
 <h2>📊 Stats</h2>
-  <p align=center>
-    <div align=center>
-        <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=radical"/>
-        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=N3agu&theme=radical" />
-    </div>
-    <br><br><br><br><br><br><br><br><br>
-    <div align=center>
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3agu&theme=radical" />
-    </div>
-    <br>
-  </p>
+        <img align="left" height=180 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=radical"/>
+        <img align="right" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=N3agu&theme=radical"/>
+        <br><br><br><br><br><br><br><br>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3agu&theme=radical" />
+        </p>
 <hr>
 
 <div align=center>
