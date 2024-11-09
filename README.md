@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C93675&width=435&lines=Hello!+I'm+Neagu+Andrei+-+%22N3agu%22)
-## 📛 Software Developer and Cyber Security Passionate 
-- I'm a high school student
-- I love low-level programming languages
-- You can contact me on LinkedIn
+## 📛 Software Developer and Cybersecurity Enthusiast
+- I'm a high school student.
+- I love working with low-level programming languages.
+- You can connect with me on LinkedIn.
 
 ## 📲 Socials
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/N3agu.png)](https://tryhackme.com/p/N3agu)
