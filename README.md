@@ -10,7 +10,7 @@
 [![HackTheBox Badge](https://www.hackthebox.com/badge/image/620974)](https://app.hackthebox.com/profile/620974)
 <h2>📊 Stats</h2>
         <img align="left" height=160 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=radical"/>
-        <img align="right" height=160 src="[https://streak-stats.demolab.com?user=N3agu&theme=radical](https://github-readme-streak-stats-eight.vercel.app/?user=N3agu&theme=radical)"/>
+        <img align="right" height=160 src="https://github-readme-streak-stats-eight.vercel.app/?user=N3agu&theme=radical"/>
         <br><br><br><br><br><br><br><br>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3agu&theme=radical" />
