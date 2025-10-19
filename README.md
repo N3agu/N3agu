@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6AE258&width=435&lines=Hello!+I'm+N3agu!)
 ## 💻 Software Developer & Cybersecurity Enthusiast  
-- Computer Science and Engineering student with 3+ years of freelance experience.
+- CS & Engineering student with 3+ years of freelance experience.
 - Passionate about low-level programming & secure systems  
 - Into CTFs and reverse engineering
 - Let’s connect on [LinkedIn](https://www.linkedin.com/in/neagu-andreirazvan/)
