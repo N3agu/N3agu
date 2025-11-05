@@ -10,7 +10,6 @@
 ## 📲 Socials
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/N3agu.png)](https://tryhackme.com/p/N3agu)
 
-[![HackTheBox Badge](https://www.hackthebox.com/badge/image/620974)](https://app.hackthebox.com/profile/620974)
 <h2>📊 Stats</h2>
         <img align="left" height=160 src="https://github-readme-stats.vercel.app/api?username=N3agu&theme=chartreuse-dark&show_icons=true"/>
         <img align="right" height=160 src="https://github-readme-streak-stats-eight.vercel.app/?user=N3agu&theme=chartreuse-dark&show_icons=true"/>
