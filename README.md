@@ -51,6 +51,7 @@
   * **[n3agu.github.io](https://github.com/N3agu/n3agu.github.io):** My personal portfolio website.
   * **[WPF-MVVM-Study](https://github.com/N3agu/WPF-MVVM-Study):** Documenting my app development journey focusing on WPF 6 fundamentals.
   * **[CTFs](https://github.com/N3agu/CTFs):** Documenting my challenges and solutions from various competitions.
+  * **[UPB-DSA](https://github.com/N3agu/UPB-DSA):** A collection of homework assignments, lab exercises, and projects for the Data Structures and Algorithms course at UPB.
 </details>
 
 <hr>
