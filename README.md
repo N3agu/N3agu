@@ -1,15 +1,16 @@
 <img align="right" src="https://raw.githubusercontent.com/N3agu/N3agu/refs/heads/main/Images/programmer.png" width="350"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6AE258&width=435&lines=Hello!+I'm+N3agu!)
-### Software Developer & Cybersecurity Enthusiast  
-- CS & Engineering student with 3+ years of freelance experience.
-- Passionate about low-level programming & secure systems  
-- Into CTFs and reverse engineering
+### Software Developer & Cybersecurity Enthusiast
+- Software Engineer @ [NAPA](https://www.napa.fi/)
+- Computer Science & Engineering student @ [UPB](https://upb.ro/)
+- 4+ Years of freelancing experience 
+- Passionate about low-level programming, secure systems, CTFs and reverse engineering
 
 ### Socials
 
 <p align="left">
-  <a href="https://linkedin.com/neagu-andreirazvan"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="48" /></a>
+  <a href="https://www.linkedin.com/in/neagu-andreirazvan/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="48" /></a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/N3agu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="48" /></a>
   &nbsp;&nbsp;
