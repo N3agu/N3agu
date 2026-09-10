@@ -17,7 +17,7 @@
   <a href="https://profile.hackthebox.com/profile/01a08037-4c35-71a9-bb2d-3f64cebe27fb?utm_medium=copy_url"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" /></a>
 </p>
 
-### Project Archive
+### Projects
 
 <details>
   <summary><b>Cybersecurity & Low-Level Projects</b></summary>
