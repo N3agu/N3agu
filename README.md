@@ -5,10 +5,16 @@
 - CS & Engineering student with 3+ years of freelance experience.
 - Passionate about low-level programming & secure systems  
 - Into CTFs and reverse engineering
-- Let’s connect on [LinkedIn](https://www.linkedin.com/in/neagu-andreirazvan/)
 
 ### Socials
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/N3agu.png)](https://tryhackme.com/p/N3agu)
+
+<p align="left">
+  <a href="https://linkedin.com/neagu-andreirazvan"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/N3agu"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://profile.hackthebox.com/profile/01a08037-4c35-71a9-bb2d-3f64cebe27fb?utm_medium=copy_url"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" /></a>
+</p>
 
 ### Project Archive
 
